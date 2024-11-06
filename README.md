@@ -19,21 +19,11 @@ This Project Involves analyzing customer data for a subscription service to iden
 - Data: Contains sales data(XLSX & CSV) files.
 
 ### Excel Files:
-- Sales Exploration: Initial data exploration using pivot tables.
-- Sales Metrics: Calculations for average sales per product and total revenue by region.
+-  subscription service exploration Exploration: Initial data exploration using pivot tables.
+-  subscription service  Metrics: Calculations for average sales per product and total revenue by region.
 
 ### SQL Queries:
-retrieve the total number of customers from each region
-find the most popular subscription type by the number of customers
-find customers who canceled their subscription within 6 months.
-calculate the average subscription duration for all customers.
-find customers with subscriptions longer than 12 months.
-calculate total revenue by subscription type.
-find the top 3 regions by subscription cancellations.
-find the total number of active and canceled subscriptions.
-
-
-
+retrieve the total number of customers from each region,find the most popular subscription type by the number of customers,find customers who canceled their subscription within 6 months.,calculate the average subscription duration for all customers,find customers with subscriptions longer than 12 months,calculate total revenue by subscription type,find the top 3 regions by subscription cancellations,find the total number of active and canceled subscriptions.
 
 ### Power BI Dashboards:
 - Sales Overview: Dashboard visualizing sales overview, top-performing products, and regional breakdowns.
