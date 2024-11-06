@@ -1,9 +1,14 @@
 # LITA_CAPSTONE_DATA-COSTOMER
 ### Project Title : Costumer Data Analysis
-Project Overview
-Tools Used
-Project Structure
- Excel Files
+- [Project Overview](project-overview)
+- [Tools Used](tool-used)
+- [Project Structure](project-structure)
+- [Excel Files](excel-files)
+- [SQL Queries](sql_queries)
+- [Power BI Dashboards](power-bi-dashboard)
+- [Data Files](data-files)
+- [Instructions Given](instruction-given)
+
 ### Project Overview
 This Project Involves analyzing customer data for a subscription service to identify segments and trends ,it aims at understanding customer behaviour ,tracking subscription types and identifying key trends in cancellations and renewals, for better decison making
 
@@ -19,17 +24,17 @@ This Project Involves analyzing customer data for a subscription service to iden
 - Data: Contains sales data(XLSX & CSV) files.
 
 ### Excel Files:
--  subscription service exploration Exploration: Initial data exploration using pivot tables.
+-  subscription service  Exploration: Initial data exploration using pivot tables.
 -  subscription service  Metrics: Calculations for average sales per product and total revenue by region.
 
 ### SQL Queries:
-retrieve the total number of customers from each region,find the most popular subscription type by the number of customers,find customers who canceled their subscription within 6 months.,calculate the average subscription duration for all customers,find customers with subscriptions longer than 12 months,calculate total revenue by subscription type,find the top 3 regions by subscription cancellations,find the total number of active and canceled subscriptions.
+retrieve the total number of customers from each region,find the most popular subscription type by the number of customers,find customers who canceled their subscription within 6 months,calculate the average subscription duration for all customers,find customers with subscriptions longer than 12 months,calculate total revenue by subscription type,find the top 3 regions by subscription cancellations,find the total number of active and canceled subscriptions.
 
 ### Power BI Dashboards:
-- Sales Overview: Dashboard visualizing sales overview, top-performing products, and regional breakdowns.
+-  Overview: Dashboard visualizing sales overview, top-performing products, and regional breakdowns.
 
 ### Data Files:
-- Sales_data: Sales data used for analysis.
+- Costumer_data: Costumer data used for analysis.
 
 ### Instructions Given;
 1. Clone the repository.
