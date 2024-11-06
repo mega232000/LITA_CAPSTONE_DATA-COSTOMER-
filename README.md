@@ -107,10 +107,12 @@ SELECT
     SUM(CASE WHEN Canceled = 'FALSE' THEN 1 ELSE 0 END) AS TotalActive
 FROM CustomerData;
 ```
+### visualization
 
+![costumer data one](https://github.com/user-attachments/assets/684645da-51cd-48c9-b0d7-2501c9ec034d)
 
+![costumer file 2](https://github.com/user-attachments/assets/d505ae06-420a-45e5-b6a0-5060c4512011)
 
+![costumer Data](https://github.com/user-attachments/assets/95aff3ca-1f43-45bb-b7c8-e57317b56592)
 
-
-
-
+![costumer power bi](https://github.com/user-attachments/assets/5c75c303-8b66-49f1-acba-40e327179e2a)
